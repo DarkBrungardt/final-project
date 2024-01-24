@@ -25,7 +25,6 @@
   #viewer_modal .btn-close {
     position: absolute;
     z-index: 999999;
-    /*right: -4.5em;*/
     background: unset;
     color: white;
     border: unset;
